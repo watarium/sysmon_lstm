@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="827ac9a6-e170-43eb-980f-fbaf3b8087dc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UUJgt5gO7hM1Kl63ebGxiiDTuT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager" selected="Python.FP_analysis">
+    <configuration name="FP_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="for_paper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/False_detection_analysis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/False_detection_analysis/FP_analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="add_reduction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="for_paper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lstm_noise_injection" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lstm_noise_injection/add_reduction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dll_reduction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="for_paper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lstm_noise_injection" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lstm_noise_injection/dll_reduction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="evaluation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="for_paper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/evaluation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="single_eval" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="for_paper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/single_eval.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.FP_analysis" />
+        <item itemvalue="Python.single_eval" />
+        <item itemvalue="Python.evaluation" />
+        <item itemvalue="Python.add_reduction" />
+        <item itemvalue="Python.dll_reduction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="827ac9a6-e170-43eb-980f-fbaf3b8087dc" name="Default Changelist" comment="" />
+      <created>1562470808337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562470808337</updated>
+      <workItem from="1562470809611" duration="3870000" />
+      <workItem from="1562485889503" duration="386000" />
+      <workItem from="1562486478060" duration="3730000" />
+      <workItem from="1562545356624" duration="876000" />
+      <workItem from="1562590806743" duration="36000" />
+      <workItem from="1562590863073" duration="6154000" />
+      <workItem from="1562679065358" duration="2313000" />
+      <workItem from="1562718290830" duration="215000" />
+      <workItem from="1562718514145" duration="32000" />
+      <workItem from="1562718938384" duration="42000" />
+      <workItem from="1562856310365" duration="23000" />
+      <workItem from="1575266388948" duration="3320000" />
+      <workItem from="1575287969089" duration="1173000" />
+      <workItem from="1575291297945" duration="380000" />
+      <workItem from="1575329439424" duration="274000" />
+      <workItem from="1575375087594" duration="7000" />
+      <workItem from="1575389358366" duration="295000" />
+      <workItem from="1575405360242" duration="1075000" />
+      <workItem from="1575497246074" duration="1818000" />
+      <workItem from="1575595808912" duration="310000" />
+      <workItem from="1575597002378" duration="600000" />
+      <workItem from="1575859681332" duration="1442000" />
+      <workItem from="1575869682384" duration="6474000" />
+      <workItem from="1576456829854" duration="5028000" />
+      <workItem from="1576492167997" duration="2304000" />
+      <workItem from="1576496040705" duration="3235000" />
+      <workItem from="1576506165051" duration="1276000" />
+      <workItem from="1576559088822" duration="113000" />
+      <workItem from="1576559338215" duration="1936000" />
+      <workItem from="1576652538830" duration="22362000" />
+      <workItem from="1576805586930" duration="2873000" />
+      <workItem from="1576837010722" duration="126000" />
+      <workItem from="1576853301864" duration="721000" />
+      <workItem from="1576897607716" duration="4719000" />
+      <workItem from="1576978923648" duration="8780000" />
+      <workItem from="1577080330492" duration="8266000" />
+      <workItem from="1577146538543" duration="1497000" />
+      <workItem from="1577158885529" duration="20000" />
+      <workItem from="1577158909144" duration="9009000" />
+      <workItem from="1577227561440" duration="7246000" />
+      <workItem from="1577263855498" duration="1080000" />
+      <workItem from="1577322814686" duration="1319000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576495987306">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1576495987306" />
+    <state width="1398" height="273" key="GridCell.Tab.0.bottom" timestamp="1577325453125">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1238" height="242" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1575941807100" />
+    <state width="1398" height="273" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1577236188919" />
+    <state width="1398" height="273" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1577325453125" />
+    <state width="1398" height="273" key="GridCell.Tab.0.center" timestamp="1577325453124">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1238" height="242" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1575941807092" />
+    <state width="1398" height="273" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1577236188918" />
+    <state width="1398" height="273" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1577325453124" />
+    <state width="1398" height="273" key="GridCell.Tab.0.left" timestamp="1577325453123">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1238" height="242" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1575941807090" />
+    <state width="1398" height="273" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1577236188917" />
+    <state width="1398" height="273" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1577325453123" />
+    <state width="1398" height="273" key="GridCell.Tab.0.right" timestamp="1577325453124">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1238" height="242" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1575941807096" />
+    <state width="1398" height="273" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1577236188918" />
+    <state width="1398" height="273" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1577325453124" />
+    <state width="1398" height="268" key="GridCell.Tab.1.bottom" timestamp="1577061128980">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1576802566869" />
+    <state width="1398" height="268" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1577061128980" />
+    <state width="1398" height="268" key="GridCell.Tab.1.center" timestamp="1577061128979">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1576802566868" />
+    <state width="1398" height="268" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1577061128979" />
+    <state width="1398" height="268" key="GridCell.Tab.1.left" timestamp="1577061128979">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1576802566868" />
+    <state width="1398" height="268" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1577061128979" />
+    <state width="1398" height="268" key="GridCell.Tab.1.right" timestamp="1577061128980">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1576802566869" />
+    <state width="1398" height="268" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1577061128980" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/for_paper$noise_injection.coverage" NAME="noise_injection Coverage Results" MODIFIED="1577233164446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lstm_noise_injection" />
+    <SUITE FILE_PATH="coverage/for_paper$for_paper.coverage" NAME="for_paper Coverage Results" MODIFIED="1577228173020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/for_paper$evaluation.coverage" NAME="evaluation Coverage Results" MODIFIED="1577253186915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/for_paper$FP_analysis.coverage" NAME="FP_analysis Coverage Results" MODIFIED="1577324106201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/False_detection_analysis" />
+    <SUITE FILE_PATH="coverage/for_paper$dll_reduction.coverage" NAME="dll_reduction Coverage Results" MODIFIED="1577234303728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lstm_noise_injection" />
+    <SUITE FILE_PATH="coverage/for_paper$make_table.coverage" NAME="make_table Coverage Results" MODIFIED="1562718942297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/for_paper$single_eval.coverage" NAME="single_eval Coverage Results" MODIFIED="1577322824064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/for_paper$temp_eval.coverage" NAME="temp_eval Coverage Results" MODIFIED="1577172237010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/for_paper$add_reduction.coverage" NAME="add_reduction Coverage Results" MODIFIED="1577235271405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lstm_noise_injection" />
+  </component>
+</project>

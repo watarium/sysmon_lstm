@@ -1,0 +1,9 @@
+ツールのバージョンによって分けたもの。
+caidaoとかはdllが結構異なるので検知できないものがある。
+
+
+2011, 2014
+ntdll.dll ntdll.dll kernel32.dll kernel32.dll user32.dll wow64.dll wow64win.dll wow64cpu.dll kernel32.dll kernel32.dll KernelBase.dll advapi32.dll msvcrt.dll sechost.dll rpcrt4.dll sspicli.dll cryptbase.dll comctl32.dll gdi32.dll user32.dll lpk.dll usp10.dll mfc42u.dll ole32.dll oleaut32.dll odbc32.dll ole32.dll shell32.dll shlwapi.dll shell32.dll shell32.dll shell32.dll wininet.dll urlmon.dll crypt32.dll msasn1.dll iertutil.dll winmm.dll ws2_32.dll nsi.dll imm32.dll msctf.dll odbcint.dll riched32.dll riched20.dll clbcatq.dll comctl32.dll uxtheme.dll msado15.dll msdart.dll cryptsp.dll rsaenh.dll RpcRtRemote.dll oledb32.dll bcrypt.dll oledb32r.dll comsvcs.dll kernel32.dll atl.dll bcryptprimitives.dll msjetoledb40.dll msjet40.dll mswstr10.dll msjter40.dll msjint40.dll msadox.dll msadrh15.dll msjtes40.dll version.dll vbajet32.dll expsrv.dll msadce.dll msadcer.dll 
+
+2016
+ntdll.dll kernel32.dll kernel32.dll user32.dll apphelp.dll mfc42u.dll ntdll.dll wow64.dll wow64win.dll wow64cpu.dll shell32.dll comctl32.dll wininet.dll ws2_32.dll winmm.dll GdiPlus.dll odbc32.dll iertutil.dll nsi.dll winmmbase.dll kernel32.dll kernel32.dll KernelBase.dll msvcrt.dll user32.dll gdi32.dll advapi32.dll imm32.dll msctf.dll uxtheme.dll ole32.dll riched32.dll riched20.dll usp10.dll msls31.dll oleaut32.dll sechost.dll dwmapi.dll rpcrt4.dll comctl32.dll combase.dll shlwapi.dll sspicli.dll version.dll oleacc.dll propsys.dll profapi.dll ntmarta.dll cryptbase.dll bcryptprimitives.dll clbcatq.dll dui70.dll imecfm.dll wer.dll SHCore.dll msado15.dll msdart.dll oledb32.dll bcrypt.dll comsvcs.dll msjetoledb40.dll msjet40.dll msjter40.dll mswstr10.dll msjint40.dll crypt32.dll msasn1.dll dpapi.dll cryptsp.dll rsaenh.dll msadox.dll msadrh15.dll msjtes40.dll vbajet32.dll expsrv.dll msdadiag.dll imecfm.dll wer.dll 

@@ -1,0 +1,50 @@
+HTranとwceについては、テストデータに学習データが含まれている。
+これはあまりバージョンアップされないため、バリエーションがない。
+データをコピーした。
+
+以下のようなパラメータ。
+
+# Build the model
+model = Sequential()
+model.add(Embedding(10000, 128, input_length=max_len))
+# lstm=LSTM(32)
+# print(lstm.units)
+optimizer = Adam()
+#optimizer = RMSprop()
+model.add(LSTM(32))
+model.add(Dense(tag_num, activation='sigmoid'))
+model.compile(loss='binary_crossentropy',
+              optimizer=optimizer,
+              metrics=['accuracy'])
+model.summary()
+
+history = model.fit(x_train, y_train,
+                    batch_size=32,
+                    epochs=10,
+                    verbose=1,
+                    validation_data=(x_test, y_test))
+                    
+                    
+結果はこちら
+62
+True value: mimikatz
+Predicted value: pwdump
+ntdll.dll kernel32.dll KernelBase.dll advapi32.dll crypt32.dll cryptdll.dll netapi32.dll ole32.dll oleaut32.dll rpcrt4.dll shlwapi.dll samlib.dll secur32.dll shell32.dll user32.dll userenv.dll version.dll setupapi.dll winsta.dll msasn1.dll msvcrt.dll sechost.dll hid.dll netutils.dll srvcli.dll wkscli.dll combase.dll gdi32.dll profapi.dll cfgmgr32.dll devobj.dll cryptsp.dll logoncli.dll sspicli.dll imm32.dll msctf.dll WinSCard.dll Wldap32.dll cryptbase.dll bcryptprimitives.dll rsaenh.dll wintrust.dll vaultcli.dll SHCore.dll bcrypt.dll 
+87
+True value: mimikatz
+Predicted value: wce
+ntdll.dll kernel32.dll KernelBase.dll advapi32.dll msvcrt.dll sechost.dll rpcrt4.dll ole32.dll gdi32.dll user32.dll lpk.dll usp10.dll oleaut32.dll shlwapi.dll samlib.dll secur32.dll sspicli.dll shell32.dll profapi.dll setupapi.dll cfgmgr32.dll devobj.dll winsta.dll Wldap32.dll imm32.dll msctf.dll cryptbase.dll rsaenh.dll crypt32.dll wintrust.dll msasn1.dll cryptdll.dll netapi32.dll netutils.dll srvcli.dll wkscli.dll logoncli.dll userenv.dll version.dll hid.dll WinSCard.dll vaultcli.dll cryptsp.dll bcrypt.dll bcryptprimitives.dll 
+93
+True value: mimikatz
+Predicted value: wce
+ntdll.dll kernel32.dll KernelBase.dll advapi32.dll crypt32.dll cryptdll.dll netapi32.dll ole32.dll oleaut32.dll rpcrt4.dll shlwapi.dll samlib.dll secur32.dll shell32.dll user32.dll userenv.dll version.dll hid.dll setupapi.dll WinSCard.dll winsta.dll Wldap32.dll msasn1.dll msvcrt.dll sechost.dll netutils.dll srvcli.dll wkscli.dll combase.dll gdi32.dll sspicli.dll profapi.dll cfgmgr32.dll devobj.dll cryptsp.dll cryptbase.dll bcryptprimitives.dll logoncli.dll imm32.dll msctf.dll kernel.appcore.dll rsaenh.dll bcrypt.dll wintrust.dll vaultcli.dll SHCore.dll 
+116
+True value: mimikatz
+Predicted value: invoke-mimikatz
+ntdll.dll kernel32.dll KernelBase.dll apphelp.dll advapi32.dll msvcrt.dll sechost.dll rpcrt4.dll crypt32.dll ucrtbase.dll msasn1.dll shlwapi.dll netapi32.dll cryptdll.dll combase.dll ntdsapi.dll bcryptprimitives.dll ws2_32.dll gdi32.dll gdi32full.dll user32.dll win32u.dll shell32.dll secur32.dll cfgmgr32.dll windows.storage.dll powrprof.dll kernel.appcore.dll SHCore.dll profapi.dll setupapi.dll hid.dll cryptsp.dll cryptbase.dll logoncli.dll netutils.dll sspicli.dll imm32.dll samlib.dll rsaenh.dll bcrypt.dll ncrypt.dll ntasn1.dll vaultcli.dll WinTypes.dll devobj.dll wintrust.dll 
+440
+True value: normal
+Predicted value: HTran
+ntdll.dll ntdll.dll wow64.dll wow64win.dll wow64cpu.dll kernel32.dll kernel32.dll kernel32.dll user32.dll kernel32.dll KernelBase.dll msvcrt.dll api-ms-win-downlevel-advapi32-l1-1-0.dll advapi32.dll sechost.dll rpcrt4.dll sspicli.dll cryptbase.dll iertutil.dll api-ms-win-downlevel-version-l1-1-0.dll api-ms-win-downlevel-user32-l1-1-0.dll user32.dll gdi32.dll lpk.dll usp10.dll api-ms-win-downlevel-normaliz-l1-1-0.dll normaliz.dll api-ms-win-downlevel-shlwapi-l1-1-0.dll shlwapi.dll imm32.dll msctf.dll version.dll api-ms-win-downlevel-shell32-l1-1-0.dll shell32.dll ieframe.dll ole32.dll oleaut32.dll comctl32.dll IEShims.dll comdlg32.dll api-ms-win-downlevel-ole32-l1-1-0.dll uxtheme.dll urlmon.dll wininet.dll userenv.dll profapi.dll secur32.dll api-ms-win-downlevel-advapi32-l2-1-0.dll ws2_32.dll nsi.dll winhttp.dll webio.dll cryptsp.dll mswsock.dll wship6.dll rsaenh.dll RpcRtRemote.dll clbcatq.dll winnsi.dll ieproxy.dll api-ms-win-downlevel-shlwapi-l2-1-0.dll ieui.dll mshtml.dll dwmapi.dll LspWaoIe.dll imagehlp.dll wsock32.dll sqmapi.dll d2d1.dll DWrite.dll dxgi.dll bcrypt.dll bcryptprimitives.dll setupapi.dll cfgmgr32.dll devobj.dll ieframe.dll mlang.dll wintrust.dll crypt32.dll msasn1.dll apphelp.dll propsys.dll d3d11.dll vm3dum_10.dll winmm.dll dbghelp.dll vm3dum.dll d3d10level9.dll wininet.dll dnsapi.dll LspWeb.dll LspWeb.dll LspWeb.dll rasadhlp.dll LspWeb.dll msimg32.dll comctl32.dll olepro32.dll wshqos.dll wshqos.dll wshqos.dll wshqos.dll ole32.dll credssp.dll schannel.dll ncrypt.dll gpapi.dll p2pcollab.dll p2pcollab.dll cryptnet.dll Wldap32.dll SensApi.dll cfgmgr32.dll winhttp.dll webio.dll dhcpcsvc6.dll dhcpcsvc.dll mshtml.dll netprofm.dll nlaapi.dll sxs.dll ieapfltr.dll msimtf.dll oleacc.dll setupapi.dll devobj.dll setupapi.dll devobj.dll npmproxy.dll setupapi.dll devobj.dll jscript9.dll vm3dum_10.dll winmm.dll dbghelp.dll vm3dum.dll d3d10level9.dll setupapi.dll devobj.dll cabinet.dll devrtl.dll setupapi.dll devobj.dll d3d10warp.dll WindowsCodecs.dll msctf.dll msctf.dll xmllite.dll setupapi.dll devobj.dll powrprof.dll winmm.dll imgutil.dll WindowsCodecsExt.dll msxml6.dll msxml3.dll UIAnimation.dll UIAutomationCore.dll psapi.dll mfplat.dll avrt.dll mshtmlmedia.dll mf.dll atl.dll ksuser.dll msv1_0.dll cryptdll.dll wdigest.dll api-ms-win-core-timezone-l1-1-0.dll MMDevAPI.dll setupapi.dll devobj.dll powrprof.dll msdmo.dll msmpeg2vdec.dll evr.dll slc.dll vcruntime140.dll api-ms-win-crt-runtime-l1-1-0.dll ucrtbase.dll api-ms-win-core-file-l2-1-0.dll api-ms-win-core-localization-l1-2-0.dll api-ms-win-core-synch-l1-2-0.dll api-ms-win-core-processthreads-l1-1-1.dll api-ms-win-core-file-l1-2-0.dll api-ms-win-crt-string-l1-1-0.dll api-ms-win-crt-heap-l1-1-0.dll api-ms-win-crt-stdio-l1-1-0.dll api-ms-win-crt-convert-l1-1-0.dll 
+N: 2657
+Recall: 0.89 Precision: 0.97 Accuracy: 1.00

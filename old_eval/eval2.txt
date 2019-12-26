@@ -1,0 +1,5784 @@
+file_name: 00_dlls.csv, epoch: 50, n: 0
+121
+True value: empire
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.971, Precision: 0.919, Accuracy: 0.989
+
+
+file_name: 00_dlls.csv, epoch: 50, n: 1
+137
+True value: mimikatz
+Predicted value: caidao
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+324
+True value: HTran
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: caidao
+
+343
+True value: HTran
+Predicted value: empire
+
+N: 348
+Recall: 0.914, Precision: 0.889, Accuracy: 0.980
+
+
+file_name: 00_dlls.csv, epoch: 50, n: 2
+22
+True value: normal
+Predicted value: mimikatz
+
+121
+True value: empire
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+172
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+343
+True value: HTran
+Predicted value: empire
+
+N: 348
+Recall: 0.943, Precision: 0.892, Accuracy: 0.983
+
+
+file_name: 00_dlls.csv, epoch: 50, n: 3
+37
+True value: caidao
+Predicted value: normal
+
+110
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+268
+True value: normal
+Predicted value: caidao
+
+335
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 0.971, Precision: 0.850, Accuracy: 0.980
+
+
+file_name: 00_dlls.csv, epoch: 50, n: 4
+10
+True value: normal
+Predicted value: mimikatz
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.897, Accuracy: 0.989
+
+
+file_name: 00_dlls.csv, epoch: 50, n: 5
+110
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.897, Accuracy: 0.989
+
+
+file_name: 00_dlls.csv, epoch: 50, n: 6
+71
+True value: normal
+Predicted value: HTran
+
+110
+True value: normal
+Predicted value: HTran
+
+137
+True value: mimikatz
+Predicted value: caidao
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.971, Precision: 0.872, Accuracy: 0.983
+
+
+file_name: 00_dlls.csv, epoch: 50, n: 7
+121
+True value: empire
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 0.971, Precision: 0.895, Accuracy: 0.986
+
+
+file_name: 00_dlls.csv, epoch: 50, n: 8
+58
+True value: normal
+Predicted value: mimikatz
+
+71
+True value: normal
+Predicted value: HTran
+
+110
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+344
+True value: normal
+Predicted value: HTran
+
+N: 348
+Recall: 1.000, Precision: 0.854, Accuracy: 0.983
+
+
+file_name: 00_dlls.csv, epoch: 50, n: 9
+121
+True value: empire
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 0.971, Precision: 0.895, Accuracy: 0.986
+
+
+file_name: 00_dlls.csv, epoch: 60, n: 0
+121
+True value: empire
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.971, Precision: 0.919, Accuracy: 0.989
+
+
+file_name: 00_dlls.csv, epoch: 60, n: 1
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+201
+True value: normal
+Predicted value: mimikatz
+
+247
+True value: normal
+Predicted value: HTran
+
+272
+True value: normal
+Predicted value: mimikatz
+
+280
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.833, Accuracy: 0.980
+
+
+file_name: 00_dlls.csv, epoch: 60, n: 2
+71
+True value: normal
+Predicted value: HTran
+
+110
+True value: normal
+Predicted value: HTran
+
+137
+True value: mimikatz
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+301
+True value: normal
+Predicted value: caidao
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.971, Precision: 0.850, Accuracy: 0.980
+
+
+file_name: 00_dlls.csv, epoch: 60, n: 3
+110
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+172
+True value: normal
+Predicted value: mimikatz
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.854, Accuracy: 0.983
+
+
+file_name: 00_dlls.csv, epoch: 60, n: 4
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+267
+True value: normal
+Predicted value: HTran
+
+280
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 1.000, Precision: 0.854, Accuracy: 0.983
+
+
+file_name: 00_dlls.csv, epoch: 60, n: 5
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+N: 348
+Recall: 1.000, Precision: 0.921, Accuracy: 0.991
+
+
+file_name: 00_dlls.csv, epoch: 60, n: 6
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.897, Accuracy: 0.989
+
+
+file_name: 00_dlls.csv, epoch: 60, n: 7
+58
+True value: normal
+Predicted value: caidao
+
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+172
+True value: normal
+Predicted value: caidao
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: HTran
+
+N: 348
+Recall: 1.000, Precision: 0.854, Accuracy: 0.983
+
+
+file_name: 00_dlls.csv, epoch: 60, n: 8
+146
+True value: normal
+Predicted value: HTran
+
+172
+True value: normal
+Predicted value: mimikatz
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+263
+True value: normal
+Predicted value: empire
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.854, Accuracy: 0.983
+
+
+file_name: 00_dlls.csv, epoch: 60, n: 9
+58
+True value: normal
+Predicted value: mimikatz
+
+146
+True value: normal
+Predicted value: HTran
+
+172
+True value: normal
+Predicted value: mimikatz
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 1.000, Precision: 0.854, Accuracy: 0.983
+
+
+file_name: 00_dlls.csv, epoch: 70, n: 0
+71
+True value: normal
+Predicted value: HTran
+
+137
+True value: mimikatz
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.971, Precision: 0.872, Accuracy: 0.983
+
+
+file_name: 00_dlls.csv, epoch: 70, n: 1
+71
+True value: normal
+Predicted value: HTran
+
+137
+True value: mimikatz
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 0.971, Precision: 0.895, Accuracy: 0.986
+
+
+file_name: 00_dlls.csv, epoch: 70, n: 2
+71
+True value: normal
+Predicted value: HTran
+
+110
+True value: normal
+Predicted value: HTran
+
+121
+True value: empire
+Predicted value: normal
+
+137
+True value: mimikatz
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+N: 348
+Recall: 0.943, Precision: 0.892, Accuracy: 0.983
+
+
+file_name: 00_dlls.csv, epoch: 70, n: 3
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+N: 348
+Recall: 1.000, Precision: 0.921, Accuracy: 0.991
+
+
+file_name: 00_dlls.csv, epoch: 70, n: 4
+10
+True value: normal
+Predicted value: mimikatz
+
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 1.000, Precision: 0.854, Accuracy: 0.983
+
+
+file_name: 00_dlls.csv, epoch: 70, n: 5
+10
+True value: normal
+Predicted value: mimikatz
+
+58
+True value: normal
+Predicted value: mimikatz
+
+71
+True value: normal
+Predicted value: HTran
+
+121
+True value: empire
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+172
+True value: normal
+Predicted value: mimikatz
+
+180
+True value: normal
+Predicted value: mimikatz
+
+201
+True value: normal
+Predicted value: mimikatz
+
+233
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+268
+True value: normal
+Predicted value: mimikatz
+
+272
+True value: normal
+Predicted value: mimikatz
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 0.971, Precision: 0.739, Accuracy: 0.963
+
+
+file_name: 00_dlls.csv, epoch: 70, n: 6
+146
+True value: normal
+Predicted value: HTran
+
+201
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+268
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.875, Accuracy: 0.986
+
+
+file_name: 00_dlls.csv, epoch: 70, n: 7
+71
+True value: normal
+Predicted value: HTran
+
+94
+True value: empire
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+266
+True value: normal
+Predicted value: mimikatz
+
+268
+True value: normal
+Predicted value: mimikatz
+
+280
+True value: normal
+Predicted value: mimikatz
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 0.971, Precision: 0.810, Accuracy: 0.974
+
+
+file_name: 00_dlls.csv, epoch: 70, n: 8
+110
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+201
+True value: normal
+Predicted value: mimikatz
+
+247
+True value: normal
+Predicted value: HTran
+
+272
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 1.000, Precision: 0.854, Accuracy: 0.983
+
+
+file_name: 00_dlls.csv, epoch: 70, n: 9
+7
+True value: caidao
+Predicted value: normal
+
+10
+True value: normal
+Predicted value: mimikatz
+
+24
+True value: caidao
+Predicted value: normal
+
+30
+True value: caidao
+Predicted value: normal
+
+110
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+172
+True value: normal
+Predicted value: mimikatz
+
+201
+True value: normal
+Predicted value: mimikatz
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+263
+True value: normal
+Predicted value: mimikatz
+
+266
+True value: normal
+Predicted value: mimikatz
+
+272
+True value: normal
+Predicted value: mimikatz
+
+280
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: caidao
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 0.914, Precision: 0.711, Accuracy: 0.954
+
+
+file_name: 00_dlls.csv, epoch: 80, n: 0
+71
+True value: normal
+Predicted value: HTran
+
+110
+True value: normal
+Predicted value: HTran
+
+121
+True value: empire
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+172
+True value: normal
+Predicted value: mimikatz
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+344
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.971, Precision: 0.810, Accuracy: 0.974
+
+
+file_name: 00_dlls.csv, epoch: 80, n: 1
+146
+True value: normal
+Predicted value: HTran
+
+172
+True value: normal
+Predicted value: mimikatz
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.875, Accuracy: 0.986
+
+
+file_name: 00_dlls.csv, epoch: 80, n: 2
+137
+True value: mimikatz
+Predicted value: normal
+
+201
+True value: normal
+Predicted value: mimikatz
+
+267
+True value: normal
+Predicted value: HTran
+
+272
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: caidao
+
+343
+True value: HTran
+Predicted value: normal
+
+N: 348
+Recall: 0.943, Precision: 0.892, Accuracy: 0.983
+
+
+file_name: 00_dlls.csv, epoch: 80, n: 3
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.897, Accuracy: 0.989
+
+
+file_name: 00_dlls.csv, epoch: 80, n: 4
+71
+True value: normal
+Predicted value: HTran
+
+121
+True value: empire
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: empire
+
+N: 348
+Recall: 0.971, Precision: 0.895, Accuracy: 0.986
+
+
+file_name: 00_dlls.csv, epoch: 80, n: 5
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.897, Accuracy: 0.989
+
+
+file_name: 00_dlls.csv, epoch: 80, n: 6
+121
+True value: empire
+Predicted value: normal
+
+137
+True value: mimikatz
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+344
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.943, Precision: 0.917, Accuracy: 0.986
+
+
+file_name: 00_dlls.csv, epoch: 80, n: 7
+71
+True value: normal
+Predicted value: HTran
+
+137
+True value: mimikatz
+Predicted value: caidao
+
+146
+True value: normal
+Predicted value: HTran
+
+169
+True value: normal
+Predicted value: caidao
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+N: 348
+Recall: 0.971, Precision: 0.872, Accuracy: 0.983
+
+
+file_name: 00_dlls.csv, epoch: 80, n: 8
+110
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.875, Accuracy: 0.986
+
+
+file_name: 00_dlls.csv, epoch: 80, n: 9
+10
+True value: normal
+Predicted value: mimikatz
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+N: 348
+Recall: 1.000, Precision: 0.897, Accuracy: 0.989
+
+
+file_name: 00_dlls.csv, epoch: 90, n: 0
+10
+True value: normal
+Predicted value: mimikatz
+
+110
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 1.000, Precision: 0.854, Accuracy: 0.983
+
+
+file_name: 00_dlls.csv, epoch: 90, n: 1
+38
+True value: caidao
+Predicted value: normal
+
+71
+True value: normal
+Predicted value: HTran
+
+89
+True value: normal
+Predicted value: mimikatz
+
+110
+True value: normal
+Predicted value: HTran
+
+137
+True value: mimikatz
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+280
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: caidao
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 0.943, Precision: 0.805, Accuracy: 0.971
+
+
+file_name: 00_dlls.csv, epoch: 90, n: 2
+10
+True value: normal
+Predicted value: mimikatz
+
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+263
+True value: normal
+Predicted value: empire
+
+335
+True value: normal
+Predicted value: caidao
+
+344
+True value: normal
+Predicted value: empire
+
+N: 348
+Recall: 1.000, Precision: 0.814, Accuracy: 0.977
+
+
+file_name: 00_dlls.csv, epoch: 90, n: 3
+10
+True value: normal
+Predicted value: mimikatz
+
+146
+True value: normal
+Predicted value: HTran
+
+172
+True value: normal
+Predicted value: mimikatz
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 1.000, Precision: 0.854, Accuracy: 0.983
+
+
+file_name: 00_dlls.csv, epoch: 90, n: 4
+10
+True value: normal
+Predicted value: mimikatz
+
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+266
+True value: normal
+Predicted value: HTran
+
+324
+True value: HTran
+Predicted value: empire
+
+335
+True value: normal
+Predicted value: caidao
+
+343
+True value: HTran
+Predicted value: empire
+
+N: 348
+Recall: 0.943, Precision: 0.825, Accuracy: 0.974
+
+
+file_name: 00_dlls.csv, epoch: 90, n: 5
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+268
+True value: normal
+Predicted value: caidao
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.875, Accuracy: 0.986
+
+
+file_name: 00_dlls.csv, epoch: 90, n: 6
+71
+True value: normal
+Predicted value: HTran
+
+137
+True value: mimikatz
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.971, Precision: 0.895, Accuracy: 0.986
+
+
+file_name: 00_dlls.csv, epoch: 90, n: 7
+27
+True value: caidao
+Predicted value: normal
+
+34
+True value: caidao
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+266
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.943, Precision: 0.868, Accuracy: 0.980
+
+
+file_name: 00_dlls.csv, epoch: 90, n: 8
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: empire
+
+N: 348
+Recall: 1.000, Precision: 0.897, Accuracy: 0.989
+
+
+file_name: 00_dlls.csv, epoch: 90, n: 9
+71
+True value: normal
+Predicted value: HTran
+
+89
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.875, Accuracy: 0.986
+
+
+file_name: 00_dlls.csv, epoch: 100, n: 0
+71
+True value: normal
+Predicted value: HTran
+
+110
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+N: 348
+Recall: 1.000, Precision: 0.875, Accuracy: 0.986
+
+
+file_name: 00_dlls.csv, epoch: 100, n: 1
+110
+True value: normal
+Predicted value: HTran
+
+121
+True value: empire
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 0.971, Precision: 0.872, Accuracy: 0.983
+
+
+file_name: 00_dlls.csv, epoch: 100, n: 2
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+324
+True value: HTran
+Predicted value: mimikatz
+
+326
+True value: HTran
+Predicted value: empire
+
+335
+True value: normal
+Predicted value: caidao
+
+343
+True value: HTran
+Predicted value: empire
+
+N: 348
+Recall: 0.914, Precision: 0.865, Accuracy: 0.977
+
+
+file_name: 00_dlls.csv, epoch: 100, n: 3
+7
+True value: caidao
+Predicted value: mimikatz
+
+24
+True value: caidao
+Predicted value: mimikatz
+
+30
+True value: caidao
+Predicted value: mimikatz
+
+137
+True value: mimikatz
+Predicted value: empire
+
+146
+True value: normal
+Predicted value: HTran
+
+201
+True value: normal
+Predicted value: mimikatz
+
+247
+True value: normal
+Predicted value: HTran
+
+266
+True value: normal
+Predicted value: mimikatz
+
+272
+True value: normal
+Predicted value: mimikatz
+
+324
+True value: HTran
+Predicted value: empire
+
+326
+True value: HTran
+Predicted value: empire
+
+335
+True value: normal
+Predicted value: caidao
+
+343
+True value: HTran
+Predicted value: empire
+
+N: 348
+Recall: 0.800, Precision: 0.824, Accuracy: 0.963
+
+
+file_name: 00_dlls.csv, epoch: 100, n: 4
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+280
+True value: normal
+Predicted value: mimikatz
+
+324
+True value: HTran
+Predicted value: normal
+
+326
+True value: HTran
+Predicted value: normal
+
+335
+True value: normal
+Predicted value: caidao
+
+343
+True value: HTran
+Predicted value: normal
+
+N: 348
+Recall: 0.914, Precision: 0.889, Accuracy: 0.980
+
+
+file_name: 00_dlls.csv, epoch: 100, n: 5
+10
+True value: normal
+Predicted value: mimikatz
+
+146
+True value: normal
+Predicted value: HTran
+
+169
+True value: normal
+Predicted value: mimikatz
+
+172
+True value: normal
+Predicted value: mimikatz
+
+230
+True value: normal
+Predicted value: caidao
+
+247
+True value: normal
+Predicted value: HTran
+
+268
+True value: normal
+Predicted value: mimikatz
+
+280
+True value: normal
+Predicted value: mimikatz
+
+306
+True value: normal
+Predicted value: caidao
+
+335
+True value: normal
+Predicted value: caidao
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 1.000, Precision: 0.761, Accuracy: 0.968
+
+
+file_name: 00_dlls.csv, epoch: 100, n: 6
+10
+True value: normal
+Predicted value: caidao
+
+58
+True value: normal
+Predicted value: caidao
+
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+172
+True value: normal
+Predicted value: caidao
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+268
+True value: normal
+Predicted value: caidao
+
+280
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: caidao
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 1.000, Precision: 0.761, Accuracy: 0.968
+
+
+file_name: 00_dlls.csv, epoch: 100, n: 7
+10
+True value: normal
+Predicted value: mimikatz
+
+137
+True value: mimikatz
+Predicted value: empire
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+280
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: empire
+
+N: 348
+Recall: 0.971, Precision: 0.850, Accuracy: 0.980
+
+
+file_name: 00_dlls.csv, epoch: 100, n: 8
+71
+True value: normal
+Predicted value: HTran
+
+110
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.854, Accuracy: 0.983
+
+
+file_name: 00_dlls.csv, epoch: 100, n: 9
+10
+True value: normal
+Predicted value: mimikatz
+
+137
+True value: mimikatz
+Predicted value: caidao
+
+146
+True value: normal
+Predicted value: HTran
+
+172
+True value: normal
+Predicted value: mimikatz
+
+201
+True value: normal
+Predicted value: mimikatz
+
+247
+True value: normal
+Predicted value: HTran
+
+266
+True value: normal
+Predicted value: mimikatz
+
+272
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.971, Precision: 0.810, Accuracy: 0.974
+
+
+file_name: 10_dlls.csv, epoch: 50, n: 0
+71
+True value: normal
+Predicted value: HTran
+
+137
+True value: mimikatz
+Predicted value: caidao
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.971, Precision: 0.895, Accuracy: 0.986
+
+
+file_name: 10_dlls.csv, epoch: 50, n: 1
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+201
+True value: normal
+Predicted value: mimikatz
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+272
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: caidao
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 1.000, Precision: 0.814, Accuracy: 0.977
+
+
+file_name: 10_dlls.csv, epoch: 50, n: 2
+71
+True value: normal
+Predicted value: HTran
+
+110
+True value: normal
+Predicted value: HTran
+
+137
+True value: mimikatz
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 0.971, Precision: 0.850, Accuracy: 0.980
+
+
+file_name: 10_dlls.csv, epoch: 50, n: 3
+146
+True value: normal
+Predicted value: HTran
+
+201
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+272
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.854, Accuracy: 0.983
+
+
+file_name: 10_dlls.csv, epoch: 50, n: 4
+71
+True value: normal
+Predicted value: HTran
+
+110
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: caidao
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: HTran
+
+N: 348
+Recall: 1.000, Precision: 0.854, Accuracy: 0.983
+
+
+file_name: 10_dlls.csv, epoch: 50, n: 5
+10
+True value: normal
+Predicted value: mimikatz
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.897, Accuracy: 0.989
+
+
+file_name: 10_dlls.csv, epoch: 50, n: 6
+10
+True value: normal
+Predicted value: mimikatz
+
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+169
+True value: normal
+Predicted value: caidao
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+263
+True value: normal
+Predicted value: mimikatz
+
+273
+True value: normal
+Predicted value: mimikatz
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 1.000, Precision: 0.795, Accuracy: 0.974
+
+
+file_name: 10_dlls.csv, epoch: 50, n: 7
+71
+True value: normal
+Predicted value: HTran
+
+89
+True value: normal
+Predicted value: empire
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.875, Accuracy: 0.986
+
+
+file_name: 10_dlls.csv, epoch: 50, n: 8
+121
+True value: empire
+Predicted value: normal
+
+137
+True value: mimikatz
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.943, Precision: 0.917, Accuracy: 0.986
+
+
+file_name: 10_dlls.csv, epoch: 50, n: 9
+71
+True value: normal
+Predicted value: HTran
+
+110
+True value: normal
+Predicted value: HTran
+
+121
+True value: empire
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.971, Precision: 0.872, Accuracy: 0.983
+
+
+file_name: 10_dlls.csv, epoch: 60, n: 0
+71
+True value: normal
+Predicted value: HTran
+
+121
+True value: empire
+Predicted value: normal
+
+137
+True value: mimikatz
+Predicted value: caidao
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+267
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.943, Precision: 0.868, Accuracy: 0.980
+
+
+file_name: 10_dlls.csv, epoch: 60, n: 1
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.875, Accuracy: 0.986
+
+
+file_name: 10_dlls.csv, epoch: 60, n: 2
+22
+True value: normal
+Predicted value: mimikatz
+
+71
+True value: normal
+Predicted value: HTran
+
+121
+True value: empire
+Predicted value: normal
+
+137
+True value: mimikatz
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.943, Precision: 0.868, Accuracy: 0.980
+
+
+file_name: 10_dlls.csv, epoch: 60, n: 3
+22
+True value: normal
+Predicted value: mimikatz
+
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.875, Accuracy: 0.986
+
+
+file_name: 10_dlls.csv, epoch: 60, n: 4
+71
+True value: normal
+Predicted value: HTran
+
+110
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+201
+True value: normal
+Predicted value: mimikatz
+
+247
+True value: normal
+Predicted value: HTran
+
+272
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 1.000, Precision: 0.833, Accuracy: 0.980
+
+
+file_name: 10_dlls.csv, epoch: 60, n: 5
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: mimikatz
+
+247
+True value: normal
+Predicted value: HTran
+
+268
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: caidao
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 1.000, Precision: 0.833, Accuracy: 0.980
+
+
+file_name: 10_dlls.csv, epoch: 60, n: 6
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+268
+True value: normal
+Predicted value: caidao
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.897, Accuracy: 0.989
+
+
+file_name: 10_dlls.csv, epoch: 60, n: 7
+137
+True value: mimikatz
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.971, Precision: 0.919, Accuracy: 0.989
+
+
+file_name: 10_dlls.csv, epoch: 60, n: 8
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+233
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+280
+True value: normal
+Predicted value: mimikatz
+
+333
+True value: normal
+Predicted value: empire
+
+N: 348
+Recall: 1.000, Precision: 0.833, Accuracy: 0.980
+
+
+file_name: 10_dlls.csv, epoch: 60, n: 9
+71
+True value: normal
+Predicted value: HTran
+
+137
+True value: mimikatz
+Predicted value: caidao
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.971, Precision: 0.872, Accuracy: 0.983
+
+
+file_name: 10_dlls.csv, epoch: 70, n: 0
+10
+True value: normal
+Predicted value: mimikatz
+
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.875, Accuracy: 0.986
+
+
+file_name: 10_dlls.csv, epoch: 70, n: 1
+115
+True value: empire
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.971, Precision: 0.895, Accuracy: 0.986
+
+
+file_name: 10_dlls.csv, epoch: 70, n: 2
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+324
+True value: HTran
+Predicted value: empire
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.971, Precision: 0.872, Accuracy: 0.983
+
+
+file_name: 10_dlls.csv, epoch: 70, n: 3
+7
+True value: caidao
+Predicted value: mimikatz
+
+10
+True value: normal
+Predicted value: caidao
+
+110
+True value: normal
+Predicted value: HTran
+
+137
+True value: mimikatz
+Predicted value: caidao
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: caidao
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.943, Precision: 0.846, Accuracy: 0.977
+
+
+file_name: 10_dlls.csv, epoch: 70, n: 4
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 1.000, Precision: 0.921, Accuracy: 0.991
+
+
+file_name: 10_dlls.csv, epoch: 70, n: 5
+10
+True value: normal
+Predicted value: caidao
+
+146
+True value: normal
+Predicted value: HTran
+
+172
+True value: normal
+Predicted value: mimikatz
+
+247
+True value: normal
+Predicted value: HTran
+
+266
+True value: normal
+Predicted value: mimikatz
+
+273
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: caidao
+
+344
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.814, Accuracy: 0.977
+
+
+file_name: 10_dlls.csv, epoch: 70, n: 6
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+273
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: caidao
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 1.000, Precision: 0.854, Accuracy: 0.983
+
+
+file_name: 10_dlls.csv, epoch: 70, n: 7
+71
+True value: normal
+Predicted value: HTran
+
+121
+True value: empire
+Predicted value: normal
+
+137
+True value: mimikatz
+Predicted value: caidao
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.943, Precision: 0.892, Accuracy: 0.983
+
+
+file_name: 10_dlls.csv, epoch: 70, n: 8
+10
+True value: normal
+Predicted value: mimikatz
+
+71
+True value: normal
+Predicted value: HTran
+
+115
+True value: empire
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+172
+True value: normal
+Predicted value: mimikatz
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.971, Precision: 0.850, Accuracy: 0.980
+
+
+file_name: 10_dlls.csv, epoch: 70, n: 9
+10
+True value: normal
+Predicted value: mimikatz
+
+137
+True value: mimikatz
+Predicted value: caidao
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: mimikatz
+
+247
+True value: normal
+Predicted value: HTran
+
+263
+True value: normal
+Predicted value: mimikatz
+
+280
+True value: normal
+Predicted value: mimikatz
+
+306
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: caidao
+
+343
+True value: HTran
+Predicted value: normal
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 0.943, Precision: 0.786, Accuracy: 0.968
+
+
+file_name: 10_dlls.csv, epoch: 80, n: 0
+110
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.875, Accuracy: 0.986
+
+
+file_name: 10_dlls.csv, epoch: 80, n: 1
+94
+True value: empire
+Predicted value: normal
+
+137
+True value: mimikatz
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.943, Precision: 0.917, Accuracy: 0.986
+
+
+file_name: 10_dlls.csv, epoch: 80, n: 2
+52
+True value: empire
+Predicted value: normal
+
+71
+True value: normal
+Predicted value: HTran
+
+137
+True value: mimikatz
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+172
+True value: normal
+Predicted value: mimikatz
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.943, Precision: 0.846, Accuracy: 0.977
+
+
+file_name: 10_dlls.csv, epoch: 80, n: 3
+121
+True value: empire
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+280
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 0.971, Precision: 0.872, Accuracy: 0.983
+
+
+file_name: 10_dlls.csv, epoch: 80, n: 4
+110
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 1.000, Precision: 0.897, Accuracy: 0.989
+
+
+file_name: 10_dlls.csv, epoch: 80, n: 5
+10
+True value: normal
+Predicted value: mimikatz
+
+146
+True value: normal
+Predicted value: HTran
+
+172
+True value: normal
+Predicted value: mimikatz
+
+201
+True value: normal
+Predicted value: mimikatz
+
+230
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+268
+True value: normal
+Predicted value: mimikatz
+
+272
+True value: normal
+Predicted value: mimikatz
+
+273
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 1.000, Precision: 0.778, Accuracy: 0.971
+
+
+file_name: 10_dlls.csv, epoch: 80, n: 6
+71
+True value: normal
+Predicted value: HTran
+
+121
+True value: empire
+Predicted value: normal
+
+137
+True value: mimikatz
+Predicted value: caidao
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.943, Precision: 0.892, Accuracy: 0.983
+
+
+file_name: 10_dlls.csv, epoch: 80, n: 7
+10
+True value: normal
+Predicted value: mimikatz
+
+71
+True value: normal
+Predicted value: HTran
+
+110
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+324
+True value: HTran
+Predicted value: normal
+
+335
+True value: normal
+Predicted value: caidao
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 0.971, Precision: 0.810, Accuracy: 0.974
+
+
+file_name: 10_dlls.csv, epoch: 80, n: 8
+7
+True value: caidao
+Predicted value: normal
+
+24
+True value: caidao
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+201
+True value: normal
+Predicted value: mimikatz
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+266
+True value: normal
+Predicted value: mimikatz
+
+272
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 0.943, Precision: 0.846, Accuracy: 0.977
+
+
+file_name: 10_dlls.csv, epoch: 80, n: 9
+110
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+201
+True value: normal
+Predicted value: mimikatz
+
+247
+True value: normal
+Predicted value: HTran
+
+273
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 1.000, Precision: 0.854, Accuracy: 0.983
+
+
+file_name: 10_dlls.csv, epoch: 90, n: 0
+10
+True value: normal
+Predicted value: mimikatz
+
+94
+True value: empire
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+201
+True value: normal
+Predicted value: mimikatz
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+266
+True value: normal
+Predicted value: HTran
+
+272
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.971, Precision: 0.810, Accuracy: 0.974
+
+
+file_name: 10_dlls.csv, epoch: 90, n: 1
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+280
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 1.000, Precision: 0.875, Accuracy: 0.986
+
+
+file_name: 10_dlls.csv, epoch: 90, n: 2
+10
+True value: normal
+Predicted value: mimikatz
+
+58
+True value: normal
+Predicted value: mimikatz
+
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.854, Accuracy: 0.983
+
+
+file_name: 10_dlls.csv, epoch: 90, n: 3
+146
+True value: normal
+Predicted value: HTran
+
+172
+True value: normal
+Predicted value: mimikatz
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+266
+True value: normal
+Predicted value: HTran
+
+267
+True value: normal
+Predicted value: HTran
+
+273
+True value: normal
+Predicted value: caidao
+
+324
+True value: HTran
+Predicted value: empire
+
+335
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 0.971, Precision: 0.810, Accuracy: 0.974
+
+
+file_name: 10_dlls.csv, epoch: 90, n: 4
+146
+True value: normal
+Predicted value: HTran
+
+233
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+268
+True value: normal
+Predicted value: caidao
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.875, Accuracy: 0.986
+
+
+file_name: 10_dlls.csv, epoch: 90, n: 5
+10
+True value: normal
+Predicted value: mimikatz
+
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: caidao
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.854, Accuracy: 0.983
+
+
+file_name: 10_dlls.csv, epoch: 90, n: 6
+10
+True value: normal
+Predicted value: mimikatz
+
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+263
+True value: normal
+Predicted value: mimikatz
+
+286
+True value: normal
+Predicted value: mimikatz
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 1.000, Precision: 0.814, Accuracy: 0.977
+
+
+file_name: 10_dlls.csv, epoch: 90, n: 7
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: caidao
+
+247
+True value: normal
+Predicted value: HTran
+
+280
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: HTran
+
+N: 348
+Recall: 1.000, Precision: 0.875, Accuracy: 0.986
+
+
+file_name: 10_dlls.csv, epoch: 90, n: 8
+10
+True value: normal
+Predicted value: mimikatz
+
+146
+True value: normal
+Predicted value: HTran
+
+233
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+344
+True value: normal
+Predicted value: empire
+
+N: 348
+Recall: 1.000, Precision: 0.875, Accuracy: 0.986
+
+
+file_name: 10_dlls.csv, epoch: 90, n: 9
+146
+True value: normal
+Predicted value: HTran
+
+201
+True value: normal
+Predicted value: mimikatz
+
+230
+True value: normal
+Predicted value: mimikatz
+
+247
+True value: normal
+Predicted value: HTran
+
+273
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.854, Accuracy: 0.983
+
+
+file_name: 10_dlls.csv, epoch: 100, n: 0
+10
+True value: normal
+Predicted value: mimikatz
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+267
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 1.000, Precision: 0.854, Accuracy: 0.983
+
+
+file_name: 10_dlls.csv, epoch: 100, n: 1
+10
+True value: normal
+Predicted value: mimikatz
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.897, Accuracy: 0.989
+
+
+file_name: 10_dlls.csv, epoch: 100, n: 2
+71
+True value: normal
+Predicted value: HTran
+
+110
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.854, Accuracy: 0.983
+
+
+file_name: 10_dlls.csv, epoch: 100, n: 3
+71
+True value: normal
+Predicted value: HTran
+
+121
+True value: empire
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: empire
+
+N: 348
+Recall: 0.971, Precision: 0.895, Accuracy: 0.986
+
+
+file_name: 10_dlls.csv, epoch: 100, n: 4
+10
+True value: normal
+Predicted value: mimikatz
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+263
+True value: normal
+Predicted value: mimikatz
+
+268
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: caidao
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 1.000, Precision: 0.833, Accuracy: 0.980
+
+
+file_name: 10_dlls.csv, epoch: 100, n: 5
+10
+True value: normal
+Predicted value: caidao
+
+58
+True value: normal
+Predicted value: mimikatz
+
+146
+True value: normal
+Predicted value: HTran
+
+172
+True value: normal
+Predicted value: caidao
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+280
+True value: normal
+Predicted value: mimikatz
+
+286
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: caidao
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 1.000, Precision: 0.778, Accuracy: 0.971
+
+
+file_name: 10_dlls.csv, epoch: 100, n: 6
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.875, Accuracy: 0.986
+
+
+file_name: 10_dlls.csv, epoch: 100, n: 7
+10
+True value: normal
+Predicted value: mimikatz
+
+71
+True value: normal
+Predicted value: HTran
+
+110
+True value: normal
+Predicted value: HTran
+
+137
+True value: mimikatz
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+273
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.971, Precision: 0.810, Accuracy: 0.974
+
+
+file_name: 10_dlls.csv, epoch: 100, n: 8
+10
+True value: normal
+Predicted value: mimikatz
+
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+169
+True value: normal
+Predicted value: caidao
+
+172
+True value: normal
+Predicted value: caidao
+
+247
+True value: normal
+Predicted value: HTran
+
+263
+True value: normal
+Predicted value: caidao
+
+284
+True value: normal
+Predicted value: caidao
+
+324
+True value: HTran
+Predicted value: empire
+
+335
+True value: normal
+Predicted value: mimikatz
+
+344
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.971, Precision: 0.773, Accuracy: 0.968
+
+
+file_name: 10_dlls.csv, epoch: 100, n: 9
+10
+True value: normal
+Predicted value: mimikatz
+
+110
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 1.000, Precision: 0.854, Accuracy: 0.983
+
+
+file_name: 20_dlls.csv, epoch: 50, n: 0
+71
+True value: normal
+Predicted value: HTran
+
+121
+True value: empire
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.971, Precision: 0.872, Accuracy: 0.983
+
+
+file_name: 20_dlls.csv, epoch: 50, n: 1
+71
+True value: normal
+Predicted value: HTran
+
+121
+True value: empire
+Predicted value: normal
+
+137
+True value: mimikatz
+Predicted value: empire
+
+146
+True value: normal
+Predicted value: HTran
+
+216
+True value: HTran
+Predicted value: mimikatz
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+324
+True value: HTran
+Predicted value: empire
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.886, Precision: 0.861, Accuracy: 0.974
+
+
+file_name: 20_dlls.csv, epoch: 50, n: 2
+71
+True value: normal
+Predicted value: HTran
+
+121
+True value: empire
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+266
+True value: normal
+Predicted value: mimikatz
+
+324
+True value: HTran
+Predicted value: empire
+
+343
+True value: HTran
+Predicted value: empire
+
+N: 348
+Recall: 0.914, Precision: 0.889, Accuracy: 0.980
+
+
+file_name: 20_dlls.csv, epoch: 50, n: 3
+71
+True value: normal
+Predicted value: HTran
+
+137
+True value: mimikatz
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 0.971, Precision: 0.872, Accuracy: 0.983
+
+
+file_name: 20_dlls.csv, epoch: 50, n: 4
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: mimikatz
+
+247
+True value: normal
+Predicted value: HTran
+
+280
+True value: normal
+Predicted value: mimikatz
+
+324
+True value: HTran
+Predicted value: empire
+
+335
+True value: normal
+Predicted value: caidao
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 0.971, Precision: 0.829, Accuracy: 0.977
+
+
+file_name: 20_dlls.csv, epoch: 50, n: 5
+110
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.897, Accuracy: 0.989
+
+
+file_name: 20_dlls.csv, epoch: 50, n: 6
+10
+True value: normal
+Predicted value: empire
+
+71
+True value: normal
+Predicted value: HTran
+
+137
+True value: mimikatz
+Predicted value: empire
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.971, Precision: 0.850, Accuracy: 0.980
+
+
+file_name: 20_dlls.csv, epoch: 50, n: 7
+137
+True value: mimikatz
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.971, Precision: 0.919, Accuracy: 0.989
+
+
+file_name: 20_dlls.csv, epoch: 50, n: 8
+71
+True value: normal
+Predicted value: HTran
+
+115
+True value: empire
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+233
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.971, Precision: 0.850, Accuracy: 0.980
+
+
+file_name: 20_dlls.csv, epoch: 50, n: 9
+27
+True value: caidao
+Predicted value: normal
+
+34
+True value: caidao
+Predicted value: normal
+
+71
+True value: normal
+Predicted value: HTran
+
+129
+True value: mimikatz
+Predicted value: normal
+
+137
+True value: mimikatz
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.886, Precision: 0.886, Accuracy: 0.977
+
+
+file_name: 20_dlls.csv, epoch: 60, n: 0
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+N: 348
+Recall: 1.000, Precision: 0.921, Accuracy: 0.991
+
+
+file_name: 20_dlls.csv, epoch: 60, n: 1
+71
+True value: normal
+Predicted value: HTran
+
+121
+True value: empire
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+172
+True value: normal
+Predicted value: mimikatz
+
+247
+True value: normal
+Predicted value: HTran
+
+266
+True value: normal
+Predicted value: mimikatz
+
+280
+True value: normal
+Predicted value: empire
+
+326
+True value: HTran
+Predicted value: normal
+
+335
+True value: normal
+Predicted value: caidao
+
+343
+True value: HTran
+Predicted value: normal
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 0.914, Precision: 0.800, Accuracy: 0.968
+
+
+file_name: 20_dlls.csv, epoch: 60, n: 2
+10
+True value: normal
+Predicted value: caidao
+
+22
+True value: normal
+Predicted value: mimikatz
+
+137
+True value: mimikatz
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+156
+True value: normal
+Predicted value: mimikatz
+
+247
+True value: normal
+Predicted value: HTran
+
+301
+True value: normal
+Predicted value: mimikatz
+
+324
+True value: HTran
+Predicted value: normal
+
+335
+True value: normal
+Predicted value: HTran
+
+344
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.943, Precision: 0.805, Accuracy: 0.971
+
+
+file_name: 20_dlls.csv, epoch: 60, n: 3
+115
+True value: empire
+Predicted value: normal
+
+121
+True value: empire
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 0.943, Precision: 0.868, Accuracy: 0.980
+
+
+file_name: 20_dlls.csv, epoch: 60, n: 4
+71
+True value: normal
+Predicted value: HTran
+
+94
+True value: empire
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.971, Precision: 0.872, Accuracy: 0.983
+
+
+file_name: 20_dlls.csv, epoch: 60, n: 5
+24
+True value: caidao
+Predicted value: normal
+
+30
+True value: caidao
+Predicted value: normal
+
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+216
+True value: HTran
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+324
+True value: HTran
+Predicted value: mimikatz
+
+326
+True value: HTran
+Predicted value: normal
+
+335
+True value: normal
+Predicted value: mimikatz
+
+343
+True value: HTran
+Predicted value: mimikatz
+
+N: 348
+Recall: 0.829, Precision: 0.879, Accuracy: 0.971
+
+
+file_name: 20_dlls.csv, epoch: 60, n: 6
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.921, Accuracy: 0.991
+
+
+file_name: 20_dlls.csv, epoch: 60, n: 7
+10
+True value: normal
+Predicted value: caidao
+
+58
+True value: normal
+Predicted value: caidao
+
+71
+True value: normal
+Predicted value: HTran
+
+137
+True value: mimikatz
+Predicted value: caidao
+
+146
+True value: normal
+Predicted value: HTran
+
+169
+True value: normal
+Predicted value: caidao
+
+230
+True value: normal
+Predicted value: caidao
+
+247
+True value: normal
+Predicted value: HTran
+
+263
+True value: normal
+Predicted value: empire
+
+306
+True value: normal
+Predicted value: caidao
+
+335
+True value: normal
+Predicted value: caidao
+
+344
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.971, Precision: 0.756, Accuracy: 0.966
+
+
+file_name: 20_dlls.csv, epoch: 60, n: 8
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 1.000, Precision: 0.921, Accuracy: 0.991
+
+
+file_name: 20_dlls.csv, epoch: 60, n: 9
+10
+True value: normal
+Predicted value: HTran
+
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+343
+True value: HTran
+Predicted value: empire
+
+N: 348
+Recall: 0.971, Precision: 0.895, Accuracy: 0.986
+
+
+file_name: 20_dlls.csv, epoch: 70, n: 0
+7
+True value: caidao
+Predicted value: normal
+
+24
+True value: caidao
+Predicted value: normal
+
+30
+True value: caidao
+Predicted value: normal
+
+34
+True value: caidao
+Predicted value: normal
+
+71
+True value: normal
+Predicted value: HTran
+
+121
+True value: empire
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 0.857, Precision: 0.882, Accuracy: 0.974
+
+
+file_name: 20_dlls.csv, epoch: 70, n: 1
+10
+True value: normal
+Predicted value: mimikatz
+
+71
+True value: normal
+Predicted value: HTran
+
+137
+True value: mimikatz
+Predicted value: caidao
+
+146
+True value: normal
+Predicted value: HTran
+
+172
+True value: normal
+Predicted value: mimikatz
+
+247
+True value: normal
+Predicted value: HTran
+
+266
+True value: normal
+Predicted value: mimikatz
+
+273
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: caidao
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 0.971, Precision: 0.791, Accuracy: 0.971
+
+
+file_name: 20_dlls.csv, epoch: 70, n: 2
+10
+True value: normal
+Predicted value: mimikatz
+
+71
+True value: normal
+Predicted value: HTran
+
+137
+True value: mimikatz
+Predicted value: caidao
+
+169
+True value: normal
+Predicted value: caidao
+
+230
+True value: normal
+Predicted value: empire
+
+266
+True value: normal
+Predicted value: mimikatz
+
+306
+True value: normal
+Predicted value: caidao
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 0.971, Precision: 0.829, Accuracy: 0.977
+
+
+file_name: 20_dlls.csv, epoch: 70, n: 3
+10
+True value: normal
+Predicted value: empire
+
+71
+True value: normal
+Predicted value: HTran
+
+121
+True value: empire
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.971, Precision: 0.872, Accuracy: 0.983
+
+
+file_name: 20_dlls.csv, epoch: 70, n: 4
+10
+True value: normal
+Predicted value: mimikatz
+
+71
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+335
+True value: normal
+Predicted value: mimikatz
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 1.000, Precision: 0.875, Accuracy: 0.986
+
+
+file_name: 20_dlls.csv, epoch: 70, n: 5
+7
+True value: caidao
+Predicted value: mimikatz
+
+10
+True value: normal
+Predicted value: mimikatz
+
+24
+True value: caidao
+Predicted value: mimikatz
+
+27
+True value: caidao
+Predicted value: mimikatz
+
+30
+True value: caidao
+Predicted value: mimikatz
+
+34
+True value: caidao
+Predicted value: mimikatz
+
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+225
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+243
+True value: normal
+Predicted value: HTran
+
+246
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+250
+True value: normal
+Predicted value: HTran
+
+251
+True value: normal
+Predicted value: HTran
+
+263
+True value: normal
+Predicted value: empire
+
+309
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 0.857, Precision: 0.682, Accuracy: 0.946
+
+
+file_name: 20_dlls.csv, epoch: 70, n: 6
+146
+True value: normal
+Predicted value: HTran
+
+169
+True value: normal
+Predicted value: caidao
+
+247
+True value: normal
+Predicted value: HTran
+
+324
+True value: HTran
+Predicted value: empire
+
+326
+True value: HTran
+Predicted value: empire
+
+335
+True value: normal
+Predicted value: mimikatz
+
+343
+True value: HTran
+Predicted value: empire
+
+N: 348
+Recall: 0.914, Precision: 0.889, Accuracy: 0.980
+
+
+file_name: 20_dlls.csv, epoch: 70, n: 7
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+172
+True value: normal
+Predicted value: mimikatz
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.854, Accuracy: 0.983
+
+
+file_name: 20_dlls.csv, epoch: 70, n: 8
+7
+True value: caidao
+Predicted value: mimikatz
+
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+201
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+266
+True value: normal
+Predicted value: mimikatz
+
+272
+True value: normal
+Predicted value: HTran
+
+273
+True value: normal
+Predicted value: HTran
+
+N: 348
+Recall: 0.971, Precision: 0.810, Accuracy: 0.974
+
+
+file_name: 20_dlls.csv, epoch: 70, n: 9
+71
+True value: normal
+Predicted value: HTran
+
+137
+True value: mimikatz
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.971, Precision: 0.872, Accuracy: 0.983
+
+
+file_name: 20_dlls.csv, epoch: 80, n: 0
+71
+True value: normal
+Predicted value: HTran
+
+110
+True value: normal
+Predicted value: HTran
+
+137
+True value: mimikatz
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.971, Precision: 0.850, Accuracy: 0.980
+
+
+file_name: 20_dlls.csv, epoch: 80, n: 1
+58
+True value: normal
+Predicted value: caidao
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+324
+True value: HTran
+Predicted value: empire
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.971, Precision: 0.872, Accuracy: 0.983
+
+
+file_name: 20_dlls.csv, epoch: 80, n: 2
+10
+True value: normal
+Predicted value: mimikatz
+
+41
+True value: empire
+Predicted value: HTran
+
+71
+True value: normal
+Predicted value: HTran
+
+137
+True value: mimikatz
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+172
+True value: normal
+Predicted value: mimikatz
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.943, Precision: 0.825, Accuracy: 0.974
+
+
+file_name: 20_dlls.csv, epoch: 80, n: 3
+10
+True value: normal
+Predicted value: mimikatz
+
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+263
+True value: normal
+Predicted value: mimikatz
+
+324
+True value: HTran
+Predicted value: empire
+
+335
+True value: normal
+Predicted value: caidao
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 0.971, Precision: 0.829, Accuracy: 0.977
+
+
+file_name: 20_dlls.csv, epoch: 80, n: 4
+22
+True value: normal
+Predicted value: mimikatz
+
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 1.000, Precision: 0.833, Accuracy: 0.980
+
+
+file_name: 20_dlls.csv, epoch: 80, n: 5
+10
+True value: normal
+Predicted value: mimikatz
+
+58
+True value: normal
+Predicted value: mimikatz
+
+146
+True value: normal
+Predicted value: HTran
+
+172
+True value: normal
+Predicted value: mimikatz
+
+247
+True value: normal
+Predicted value: HTran
+
+263
+True value: normal
+Predicted value: mimikatz
+
+266
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: caidao
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 1.000, Precision: 0.795, Accuracy: 0.974
+
+
+file_name: 20_dlls.csv, epoch: 80, n: 6
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.897, Accuracy: 0.989
+
+
+file_name: 20_dlls.csv, epoch: 80, n: 7
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.897, Accuracy: 0.989
+
+
+file_name: 20_dlls.csv, epoch: 80, n: 8
+10
+True value: normal
+Predicted value: mimikatz
+
+15
+True value: normal
+Predicted value: caidao
+
+19
+True value: normal
+Predicted value: caidao
+
+58
+True value: normal
+Predicted value: caidao
+
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+169
+True value: normal
+Predicted value: caidao
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+280
+True value: normal
+Predicted value: mimikatz
+
+306
+True value: normal
+Predicted value: caidao
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.745, Accuracy: 0.966
+
+
+file_name: 20_dlls.csv, epoch: 80, n: 9
+71
+True value: normal
+Predicted value: HTran
+
+79
+True value: empire
+Predicted value: HTran
+
+115
+True value: empire
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+324
+True value: HTran
+Predicted value: empire
+
+335
+True value: normal
+Predicted value: caidao
+
+343
+True value: HTran
+Predicted value: empire
+
+N: 348
+Recall: 0.886, Precision: 0.886, Accuracy: 0.977
+
+
+file_name: 20_dlls.csv, epoch: 90, n: 0
+10
+True value: normal
+Predicted value: mimikatz
+
+58
+True value: normal
+Predicted value: mimikatz
+
+137
+True value: mimikatz
+Predicted value: empire
+
+146
+True value: normal
+Predicted value: HTran
+
+169
+True value: normal
+Predicted value: caidao
+
+230
+True value: normal
+Predicted value: empire
+
+233
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+280
+True value: normal
+Predicted value: mimikatz
+
+306
+True value: normal
+Predicted value: caidao
+
+335
+True value: normal
+Predicted value: caidao
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 0.971, Precision: 0.756, Accuracy: 0.966
+
+
+file_name: 20_dlls.csv, epoch: 90, n: 1
+10
+True value: normal
+Predicted value: mimikatz
+
+71
+True value: normal
+Predicted value: HTran
+
+121
+True value: empire
+Predicted value: normal
+
+137
+True value: mimikatz
+Predicted value: caidao
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+287
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: caidao
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 0.943, Precision: 0.825, Accuracy: 0.974
+
+
+file_name: 20_dlls.csv, epoch: 90, n: 2
+10
+True value: normal
+Predicted value: mimikatz
+
+121
+True value: empire
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+201
+True value: normal
+Predicted value: HTran
+
+233
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+272
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 0.971, Precision: 0.810, Accuracy: 0.974
+
+
+file_name: 20_dlls.csv, epoch: 90, n: 3
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 1.000, Precision: 0.897, Accuracy: 0.989
+
+
+file_name: 20_dlls.csv, epoch: 90, n: 4
+24
+True value: caidao
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.971, Precision: 0.895, Accuracy: 0.986
+
+
+file_name: 20_dlls.csv, epoch: 90, n: 5
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+306
+True value: normal
+Predicted value: caidao
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.854, Accuracy: 0.983
+
+
+file_name: 20_dlls.csv, epoch: 90, n: 6
+10
+True value: normal
+Predicted value: empire
+
+71
+True value: normal
+Predicted value: HTran
+
+137
+True value: mimikatz
+Predicted value: caidao
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+263
+True value: normal
+Predicted value: empire
+
+280
+True value: normal
+Predicted value: empire
+
+335
+True value: normal
+Predicted value: caidao
+
+344
+True value: normal
+Predicted value: empire
+
+N: 348
+Recall: 0.971, Precision: 0.791, Accuracy: 0.971
+
+
+file_name: 20_dlls.csv, epoch: 90, n: 7
+137
+True value: mimikatz
+Predicted value: caidao
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 0.971, Precision: 0.919, Accuracy: 0.989
+
+
+file_name: 20_dlls.csv, epoch: 90, n: 8
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+280
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: empire
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 1.000, Precision: 0.833, Accuracy: 0.980
+
+
+file_name: 20_dlls.csv, epoch: 90, n: 9
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+280
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: mimikatz
+
+344
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.833, Accuracy: 0.980
+
+
+file_name: 20_dlls.csv, epoch: 100, n: 0
+10
+True value: normal
+Predicted value: mimikatz
+
+110
+True value: normal
+Predicted value: HTran
+
+141
+True value: normal
+Predicted value: caidao
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 1.000, Precision: 0.833, Accuracy: 0.980
+
+
+file_name: 20_dlls.csv, epoch: 100, n: 1
+71
+True value: normal
+Predicted value: HTran
+
+121
+True value: empire
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: caidao
+
+247
+True value: normal
+Predicted value: HTran
+
+324
+True value: HTran
+Predicted value: empire
+
+335
+True value: normal
+Predicted value: mimikatz
+
+343
+True value: HTran
+Predicted value: empire
+
+N: 348
+Recall: 0.914, Precision: 0.865, Accuracy: 0.977
+
+
+file_name: 20_dlls.csv, epoch: 100, n: 2
+10
+True value: normal
+Predicted value: mimikatz
+
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+306
+True value: normal
+Predicted value: mimikatz
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 1.000, Precision: 0.833, Accuracy: 0.980
+
+
+file_name: 20_dlls.csv, epoch: 100, n: 3
+10
+True value: normal
+Predicted value: mimikatz
+
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+172
+True value: normal
+Predicted value: mimikatz
+
+230
+True value: normal
+Predicted value: mimikatz
+
+247
+True value: normal
+Predicted value: HTran
+
+266
+True value: normal
+Predicted value: mimikatz
+
+273
+True value: normal
+Predicted value: HTran
+
+280
+True value: normal
+Predicted value: mimikatz
+
+301
+True value: normal
+Predicted value: empire
+
+324
+True value: HTran
+Predicted value: normal
+
+335
+True value: normal
+Predicted value: caidao
+
+343
+True value: HTran
+Predicted value: normal
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 0.943, Precision: 0.733, Accuracy: 0.960
+
+
+file_name: 20_dlls.csv, epoch: 100, n: 4
+10
+True value: normal
+Predicted value: mimikatz
+
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+335
+True value: normal
+Predicted value: caidao
+
+N: 348
+Recall: 1.000, Precision: 0.875, Accuracy: 0.986
+
+
+file_name: 20_dlls.csv, epoch: 100, n: 5
+10
+True value: normal
+Predicted value: empire
+
+58
+True value: normal
+Predicted value: caidao
+
+146
+True value: normal
+Predicted value: HTran
+
+159
+True value: HTran
+Predicted value: normal
+
+169
+True value: normal
+Predicted value: empire
+
+172
+True value: normal
+Predicted value: caidao
+
+230
+True value: normal
+Predicted value: empire
+
+247
+True value: normal
+Predicted value: HTran
+
+263
+True value: normal
+Predicted value: empire
+
+266
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: mimikatz
+
+344
+True value: normal
+Predicted value: mimikatz
+
+N: 348
+Recall: 0.971, Precision: 0.756, Accuracy: 0.966
+
+
+file_name: 20_dlls.csv, epoch: 100, n: 6
+7
+True value: caidao
+Predicted value: mimikatz
+
+22
+True value: normal
+Predicted value: mimikatz
+
+24
+True value: caidao
+Predicted value: mimikatz
+
+27
+True value: caidao
+Predicted value: mimikatz
+
+30
+True value: caidao
+Predicted value: mimikatz
+
+34
+True value: caidao
+Predicted value: mimikatz
+
+71
+True value: normal
+Predicted value: HTran
+
+121
+True value: empire
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+324
+True value: HTran
+Predicted value: empire
+
+335
+True value: normal
+Predicted value: caidao
+
+343
+True value: HTran
+Predicted value: empire
+
+N: 348
+Recall: 0.771, Precision: 0.844, Accuracy: 0.963
+
+
+file_name: 20_dlls.csv, epoch: 100, n: 7
+71
+True value: normal
+Predicted value: HTran
+
+94
+True value: empire
+Predicted value: normal
+
+121
+True value: empire
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+N: 348
+Recall: 0.943, Precision: 0.917, Accuracy: 0.986
+
+
+file_name: 20_dlls.csv, epoch: 100, n: 8
+71
+True value: normal
+Predicted value: HTran
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+266
+True value: normal
+Predicted value: caidao
+
+287
+True value: normal
+Predicted value: HTran
+
+N: 348
+Recall: 1.000, Precision: 0.875, Accuracy: 0.986
+
+
+file_name: 20_dlls.csv, epoch: 100, n: 9
+71
+True value: normal
+Predicted value: HTran
+
+137
+True value: mimikatz
+Predicted value: normal
+
+146
+True value: normal
+Predicted value: HTran
+
+247
+True value: normal
+Predicted value: HTran
+
+287
+True value: normal
+Predicted value: mimikatz
+
+324
+True value: HTran
+Predicted value: normal
+
+344
+True value: normal
+Predicted value: HTran
+
+N: 348
+Recall: 0.943, Precision: 0.868, Accuracy: 0.980
+
+

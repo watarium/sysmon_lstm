@@ -1,0 +1,61 @@
+ベストなデータ
+
+どうやら、FPの原因はdatasetを作成するツールの不具合であった可能性がある。以下のような挙動なので、invoke mimiをdll listでは発見できなかったのかもしれない。
+１）test.csvのattack：mimiのdll list にはマッチして、親プロセス名がpowershell.exe
+２）test.csvのnormal：mimiのdll list にはマッチしてないけど、親プロセス名がpowershell.exe
+
+怪しいプロセスを削除し、mimiを動かしていない、powershellを含んだnormalデータを2000件程度追加した。
+N: 2704
+Recall: 1.00 Precision: 1.00 Accuracy: 1.00
+なので、良い結果。
+
+
+パラメータはこちら
+model = Sequential()
+model.add(Embedding(10000, 128, input_length=max_len))
+# lstm=LSTM(32)
+# print(lstm.units)
+#optimizer = Adam()
+optimizer = RMSprop()
+model.add(LSTM(32))
+model.add(Dense(tag_num, activation='sigmoid'))
+model.compile(loss='binary_crossentropy',
+              optimizer=optimizer,
+              metrics=['accuracy'])
+model.summary()
+
+history = model.fit(x_train, y_train,
+                    batch_size=32,
+                    epochs=5,
+                    verbose=1,
+                    validation_data=(x_test, y_test))
+                    
+                    
+以下は過去の履歴
+
+220
+True value: normal
+Predicted value: attack
+N: 351
+Recall: 1.00 Precision: 0.97 Accuracy: 1.00
+
+
+optimizer = RMSprop()
+model.add(LSTM(32))
+model.add(Dense(tag_num, activation='sigmoid'))
+model.compile(loss='binary_crossentropy',
+              optimizer=optimizer,
+              metrics=['accuracy'])
+model.summary()
+
+history = model.fit(x_train, y_train,
+                    batch_size=32,
+                    epochs=10,
+                    verbose=1,
+                    validation_data=(x_test, y_test))
+
+# Evaluate the accuracy of our trained model
+score = model.evaluate(x_test, y_test,
+                       batch_size=32, verbose=1)
+print('Loss of evaluation:', score[0])
+print('Accuracy of evaluation:', score[1])
